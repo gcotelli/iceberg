@@ -2,4 +2,4 @@ baseline
 osSubprocess: spec
 	spec 
 		baseline: 'OSSubprocess' 
-		with: [ spec repository: 'github://pharo-contributions/OSSubprocess:248d470c5a1a6bb64039fe7e23572581448d5fac/repository' ]
+		with: [ spec repository: 'github://pharo-contributions/OSSubprocess:01190c62e1b5a2b2f260b78443174866deb2e0ed/repository' ]
